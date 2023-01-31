@@ -15,3 +15,6 @@ o val_images: Normalized values of Pixels
 o val_labels: Stored as One-Hot Encoded data
 
 • Classes: “squiggle”, “narrowband”, “narrowbanddrd”, and “noise”
+
+# Dataset
+https://www.dropbox.com/sh/pwbc7gvqqmn9fzk/AAAL2Tpy1Bx151AtjnbCIedma?dl=0
